@@ -176,3 +176,10 @@
     }
   ]
 }
+{
+      "name" : "Dumpling and beyond",
+      "address" : "2400 Wisconsin Ave NW, Washington, DC 20007",
+      "description" : "华盛顿最好吃的饺子，每次去必点宫保鸡，蒙古牛，白菜豆腐汤，还有chef special，把美式中餐做出了地道中国味",
+      "longitude" : "38.9211919",
+      "latitude" : "-77.0680915"
+    }
